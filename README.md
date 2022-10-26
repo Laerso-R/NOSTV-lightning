@@ -1,8 +1,4 @@
-# app
-
-## com.domain.app.app
-
-### Getting started
+## Getting started
 
 > Before you follow the steps below, make sure you have the
 [Lightning-CLI](https://rdkcentral.github.io/Lightning-CLI/#/) installed _globally_ only your system
@@ -18,6 +14,8 @@ npm install -g @lightningjs/cli
 2. Build the App using the _Lightning-CLI_ by running `lng build` inside the root of your project
 
 3. Fire up a local webserver and open the App in a browser by running `lng serve` inside the root of your project
+
+4. To avoid scrollbars on Google Chrome make sure to anable responsive dimentions and set the screen size to 1920x1080 (right click on screen > Inspect > Browse Tools Bar(Phone/Tablet icon))
 
 #### Developing the App
 
